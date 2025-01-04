@@ -1,0 +1,21 @@
+{
+    "name": "darkterminal/libsql-pdo-driver",
+    "description": "Turso/LibSQL PDO Driver",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LibSQLPDO\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Imam Ali Mustofa",
+            "email": "d.darkterminal@gmail.com"
+        }
+    ],
+    "require": {}
+}
